@@ -1,0 +1,47 @@
+ /* body{
+  background-image: url("../image/Legno-ciliegio.jpg");
+} */
+body{
+  background-image: url("https://4.bp.blogspot.com/-BGdwVSWjuAo/Tw16fNQoMkI/AAAAAAAAAKQ/uxlRgPYzry8/s1600/Legno+ciliegio.jpg");
+}
+
+header{
+  border-bottom: 5px solid white;
+  margin-bottom: 15px
+}
+h1{
+  display: inline-block;
+}
+
+.bordo{
+  background-color: #f8fc03;
+  border: 5px solid yellow;
+  border-radius: 100%;
+}
+
+.sezione{
+  font-size: 25px;
+  border-bottom: 5px solid white;
+  margin: 15px 0px;
+}
+
+.grey{
+  background-color: #3d3d3d;
+  border: 2px solid black;
+}
+
+.lightgrey{
+  background-color: #757574;
+  border: 2px solid black;
+}
+p{
+  display: inline;
+}
+.trasparenza{
+  color: rgba(0, 0, 0, 0.5);
+}
+
+footer{
+  text-align: center;
+  font-size: 15px;
+}
